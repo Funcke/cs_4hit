@@ -1,0 +1,7 @@
+C:\Users\jonas\source\repos\big_file\big_file\bin\Debug\big_file.exe.config
+C:\Users\jonas\source\repos\big_file\big_file\bin\Debug\big_file.exe
+C:\Users\jonas\source\repos\big_file\big_file\bin\Debug\big_file.pdb
+C:\Users\jonas\source\repos\big_file\big_file\obj\Debug\big_file.csprojAssemblyReference.cache
+C:\Users\jonas\source\repos\big_file\big_file\obj\Debug\big_file.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\big_file\big_file\obj\Debug\big_file.exe
+C:\Users\jonas\source\repos\big_file\big_file\obj\Debug\big_file.pdb

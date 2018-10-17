@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="9.75" />
+  <Class Name="MSEventPattern.Model">
+    <Position X="4.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>model.cs</FileName>
+      <HashCode>AAAACAAAACAAQCAAACAAAAgAAAAAAAAAAAQAQAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <NestedTypes>
+      <Delegate Name="MSEventPattern.Model.NumberChangedHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>model.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+  </Class>
+  <Class Name="MSEventPattern.NumberChangedEventArgs">
+    <Position X="0.5" Y="5" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>NumberChangedEventArgs.cs</FileName>
+      <HashCode>AAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSEventPattern.Observer1">
+    <Position X="3.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Observer1.cs</FileName>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAABAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSEventPattern.Observer2">
+    <Position X="5.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Observer2.cs</FileName>
+      <HashCode>AACAAAAAACAAAAAAAACCAAACAAAAAAAAAAAhAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSEventPattern.StartForm">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>StartForm.cs</FileName>
+      <HashCode>AAAIAAAAAiAAAAEAAICAAAACEAAAAAAAAAAABAEIBAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
